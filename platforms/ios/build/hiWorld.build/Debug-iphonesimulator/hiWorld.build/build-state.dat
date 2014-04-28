@@ -1,1176 +1,0 @@
-ThiWorld
-v6
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Info.plist /Users/benchansky/Apps/hi/platforms/ios/hiWorld/hiWorld-Info.plist
-cPhaseScriptExecution Copy\ www\ directory /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Script-304B58A110DAC018002A0835.sh
-cCpResource hiWorld/Resources/icons/icon-76.png build/emulator/hiWorld.app/icon-76.png
-cCpResource hiWorld/Resources/icons/icon-40@2x.png build/emulator/hiWorld.app/icon-40@2x.png
-cCpResource hiWorld/Resources/icons/icon-72.png build/emulator/hiWorld.app/icon-72.png
-cCpResource hiWorld/Resources/icons/icon.png build/emulator/hiWorld.app/icon.png
-cCpResource hiWorld/Resources/icons/icon@2x.png build/emulator/hiWorld.app/icon@2x.png
-cCopyStringsFile /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/en.lproj/Localizable.strings hiWorld/Resources/en.lproj/Localizable.strings
-cCompileXIB /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/MainViewController.xib
-cCpResource hiWorld/Resources/icons/icon-50.png build/emulator/hiWorld.app/icon-50.png
-cCpResource hiWorld/Resources/icons/icon-60@2x.png build/emulator/hiWorld.app/icon-60@2x.png
-cCopyStringsFile /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/de.lproj/Localizable.strings hiWorld/Resources/de.lproj/Localizable.strings
-cCpResource hiWorld/Resources/icons/icon-small.png build/emulator/hiWorld.app/icon-small.png
-cCpResource hiWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/hiWorld.app/Default-Landscape@2x~ipad.png
-cCpResource hiWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/hiWorld.app/Default-Landscape~ipad.png
-cCpResource hiWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/hiWorld.app/Default-Portrait@2x~ipad.png
-cCpResource hiWorld/Resources/icons/icon-small@2x.png build/emulator/hiWorld.app/icon-small@2x.png
-cCpResource hiWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/hiWorld.app/Default-Portrait~ipad.png
-cCpResource hiWorld/Resources/icons/icon-40.png build/emulator/hiWorld.app/icon-40.png
-cCpResource hiWorld/Resources/splash/Default@2x~iphone.png build/emulator/hiWorld.app/Default@2x~iphone.png
-cCpResource hiWorld/Resources/icons/icon-60.png build/emulator/hiWorld.app/icon-60.png
-cCpResource hiWorld/Resources/splash/Default~iphone.png build/emulator/hiWorld.app/Default~iphone.png
-cCpResource hiWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/hiWorld.app/Default-568h@2x~iphone.png
-cCpResource hiWorld/Resources/icons/icon-50@2x.png build/emulator/hiWorld.app/icon-50@2x.png
-cCpResource hiWorld/Resources/icons/icon-76@2x.png build/emulator/hiWorld.app/icon-76@2x.png
-cCpResource hiWorld/Resources/icons/icon-72@2x.png build/emulator/hiWorld.app/icon-72@2x.png
-cProcessPCH /var/folders/98/df4p528s3n3g0r3c09kc4_fr0000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/hiWorld-Prefix-bnumxjsqzrugcwfnnjgwqjckgyoc/hiWorld-Prefix.pch.pch hiWorld/hiWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/main.o /Users/benchansky/Apps/hi/platforms/ios/hiWorld/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/AppDelegate.o /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/MainViewController.o /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/hiWorld normal i386
-cGenerateDSYMFile /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app.dSYM /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/hiWorld
-cTouch /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
-c000000005348A1D20000000000000198
-t1397268946
-s408
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
-c00000000532AEBA100000000000003B4
-t1395321761
-s948
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
-c00000000532AEBA7000000000000019E
-t1395321767
-s414
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
-c00000000532AEBA90000000000484210
-t1395321769
-s4735504
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
-c00000000532AEBA90000000000098030
-t1395321769
-s622640
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
-c00000000532AEBA90000000000059340
-t1395321769
-s365376
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-c00000000532AEBAA00000000005B82F0
-t1395321770
-s5997296
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000005348A17B0000000000446820
-t1397268859
-s4483104
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
-c00000000532AEBA900000000000F1A80
-t1395321769
-s989824
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
-c00000000532AEBAA000000000013B8C0
-t1395321770
-s1292480
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c00000000532AEBAB000000000088D8C0
-t1395321771
-s8968384
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
-c00000000532AEBAD00000000001BE790
-t1395321773
-s1828752
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c00000000532AEBAF0000000001F1DE10
-t1395321775
-s32628240
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-c00000000532AEBBD00000000002BC360
-t1395321789
-s2868064
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
-c00000000532AEBC30000000000002338
-t1395321795
-s9016
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
-c00000000532AEBC3000000000008D370
-t1395321795
-s578416
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
-c00000000532AEBC30000000000392E20
-t1395321795
-s3747360
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
-c00000000532A94F100000000000141F0
-t1395299569
-s82416
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
-c00000000532AEBC40000000000014A80
-t1395321796
-s84608
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-c00000000532AEBC40000000000033BA0
-t1395321796
-s211872
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-c00000000532AEBC4000000000001CFB0
-t1395321796
-s118704
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
-c00000000532AEBC4000000000001B2B0
-t1395321796
-s111280
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
-c00000000532AEBC400000000000C9570
-t1395321796
-s824688
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
-c00000000532AEBC40000000000063280
-t1395321796
-s406144
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
-c00000000532AEBC40000000000008880
-t1395321796
-s34944
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
-c00000000532AEBC40000000000015080
-t1395321796
-s86144
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
-c00000000532AEBC400000000000230F0
-t1395321796
-s143600
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
-c00000000532AEBC4000000000000E380
-t1395321796
-s58240
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
-c00000000532AEBC40000000000089380
-t1395321796
-s562048
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
-c00000000532AEBC40000000000017320
-t1395321796
-s95008
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
-c00000000532AEBC40000000000039CD0
-t1395321796
-s236752
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-c00000000532AEBC4000000000000B0B0
-t1395321796
-s45232
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
-c00000000532AEBC40000000000167E80
-t1395321796
-s1474176
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-c00000000532AEBC400000000000106A0
-t1395321796
-s67232
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-c00000000532AEBC4000000000001CE40
-t1395321796
-s118336
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
-c00000000532AEBC400000000000740C0
-t1395321796
-s475328
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
-c00000000532AEBC4000000000006CA60
-t1395321796
-s445024
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
-c00000000532AEBC4000000000001BAD0
-t1395321796
-s113360
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
-c00000000532AEBC40000000000084A20
-t1395321796
-s543264
-
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
-c000000005348A17B000000000000514C
-t1397268859
-s20812
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app
-t1398647227
-s1020
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app.dSYM
-t1398639971
-s102
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Default-568h@2x~iphone.png
-t1398036393
-s34225
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Default-Landscape@2x~ipad.png
-t1398036393
-s212234
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Default-Landscape~ipad.png
-t1398036392
-s91810
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Default-Portrait@2x~ipad.png
-t1398036393
-s212860
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Default-Portrait~ipad.png
-t1398036393
-s91713
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Default@2x~iphone.png
-t1398036392
-s29475
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Default~iphone.png
-t1398036393
-s10394
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Info.plist
-t1398647227
-s1265
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/MainViewController.nib
-t1398036407
-s836
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/PkgInfo
-t2
-s0
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/de.lproj/Localizable.strings
-t1398036392
-s280
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/en.lproj/Localizable.strings
-t1398036392
-s166
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/hiWorld
-t1398036408
-s271616
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-40.png
-t1398036392
-s4082
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-40@2x.png
-t1398036392
-s7411
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-50.png
-t1398036392
-s4874
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-50@2x.png
-t1398036393
-s9611
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-60.png
-t1398036392
-s5811
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-60@2x.png
-t1398036392
-s11924
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-72.png
-t1398036392
-s4944
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-72@2x.png
-t1398036393
-s11706
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-76.png
-t1398036392
-s7025
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-76@2x.png
-t1398036393
-s15262
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-small.png
-t1398036392
-s3294
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-small@2x.png
-t1398036392
-s5608
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon.png
-t1398036392
-s3902
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon@2x.png
-t1398036392
-s7869
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
-c00000000535457A40000000000000CFB
-t1398036388
-s3323
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
-c00000000535457A400000000000008BA
-t1398036388
-s2234
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
-c00000000535457A400000000000004E2
-t1398036388
-s1250
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
-c00000000535457A40000000000000503
-t1398036388
-s1283
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
-c00000000535457A400000000000007E6
-t1398036388
-s2022
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
-c00000000535457A40000000000000892
-t1398036388
-s2194
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
-c00000000535457A40000000000000C13
-t1398036388
-s3091
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
-c00000000535457A40000000000000408
-t1398036388
-s1032
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
-c00000000535457A40000000000000ACC
-t1398036388
-s2764
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
-c00000000535457A400000000000004B4
-t1398036388
-s1204
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
-c00000000535457A400000000000003A0
-t1398036388
-s928
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/emulator/libCordova.a
-c00000000535457A800000000000D34B8
-t1398036392
-s865464
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/AppDelegate.o
-t1398036407
-s73916
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/MainViewController.o
-t1398036407
-s51496
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/hiWorld.LinkFileList
-c00000000535457A80000000000000186
-t1398036392
-s390
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/main.o
-t1398036407
-s2932
-
-N/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Script-304B58A110DAC018002A0835.sh
-c00000000535457A8000000000000002D
-t1398036392
-s45
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/AppDelegate.h
-c000000005354518E00000000000005B3
-t1398034830
-s1459
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/AppDelegate.m
-c000000005354518E00000000000013A5
-t1398034830
-s5029
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/MainViewController.h
-c000000005354518E00000000000004CD
-t1398034830
-s1229
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/MainViewController.m
-c000000005354518E0000000000001268
-t1398034830
-s4712
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/MainViewController.xib
-c000000005354518E0000000000001759
-t1398034830
-s5977
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/de.lproj/Localizable.strings
-c000000005354518E00000000000004C0
-t1398034830
-s1216
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/en.lproj/Localizable.strings
-c000000005354518E00000000000004AB
-t1398034830
-s1195
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-40.png
-c000000005354518E0000000000000FF2
-t1398034830
-s4082
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-40@2x.png
-c000000005354518E0000000000001CF3
-t1398034830
-s7411
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-50.png
-c000000005354518E000000000000130A
-t1398034830
-s4874
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-50@2x.png
-c000000005354518E000000000000258B
-t1398034830
-s9611
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-60.png
-c000000005354518E00000000000016B3
-t1398034830
-s5811
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-60@2x.png
-c000000005354518E0000000000002E94
-t1398034830
-s11924
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-72.png
-c000000005354518E0000000000001350
-t1398034830
-s4944
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-72@2x.png
-c000000005354518E0000000000002DBA
-t1398034830
-s11706
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-76.png
-c000000005354518E0000000000001B71
-t1398034830
-s7025
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-76@2x.png
-c000000005354518E0000000000003B9E
-t1398034830
-s15262
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-small.png
-c000000005354518E0000000000000CDE
-t1398034830
-s3294
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-small@2x.png
-c000000005354518E00000000000015E8
-t1398034830
-s5608
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon.png
-c000000005354518E0000000000000F3E
-t1398034830
-s3902
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon@2x.png
-c000000005354518E0000000000001EBD
-t1398034830
-s7869
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/splash/Default-568h@2x~iphone.png
-c000000005354518E00000000000085B1
-t1398034830
-s34225
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/splash/Default-Landscape@2x~ipad.png
-c000000005354518E0000000000033D0A
-t1398034830
-s212234
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/splash/Default-Landscape~ipad.png
-c000000005354518E00000000000166A2
-t1398034830
-s91810
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/splash/Default-Portrait@2x~ipad.png
-c000000005354518E0000000000033F7C
-t1398034830
-s212860
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/splash/Default-Portrait~ipad.png
-c000000005354518E0000000000016641
-t1398034830
-s91713
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/splash/Default@2x~iphone.png
-c000000005354518E0000000000007323
-t1398034830
-s29475
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/splash/Default~iphone.png
-c000000005354518E000000000000289A
-t1398034830
-s10394
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/hiWorld-Info.plist
-c00000000535DA9B50000000000000A05
-t1398647221
-s2565
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/hiWorld-Prefix.pch
-c000000005354518E00000000000003BF
-t1398034830
-s959
-
-N/Users/benchansky/Apps/hi/platforms/ios/hiWorld/main.m
-c000000005354518E0000000000000459
-t1398034830
-s1113
-
-N/usr/lib/libSystem.B.dylib
-c00000000532A94E3000000000000E6D0
-t1395299555
-s59088
-
-N/usr/lib/system/libcache.dylib
-c00000000532A94F10000000000012A00
-t1395299569
-s76288
-
-N/usr/lib/system/libcommonCrypto.dylib
-c00000000532A94D6000000000002E320
-t1395299542
-s189216
-
-N/usr/lib/system/libcompiler_rt.dylib
-c00000000532A94E30000000000021860
-t1395299555
-s137312
-
-N/usr/lib/system/libcopyfile.dylib
-c00000000532A94F0000000000001B620
-t1395299568
-s112160
-
-N/usr/lib/system/libcorecrypto.dylib
-c00000000532A94F000000000000BD920
-t1395299568
-s776480
-
-N/usr/lib/system/libkeymgr.dylib
-c00000000532A94F1000000000000A120
-t1395299569
-s41248
-
-N/usr/lib/system/liblaunch.dylib
-c00000000532A94F1000000000001D550
-t1395299569
-s120144
-
-N/usr/lib/system/libmacho.dylib
-c00000000532A94F00000000000014EE0
-t1395299568
-s85728
-
-N/usr/lib/system/libquarantine.dylib
-c00000000532A94F30000000000010380
-t1395299571
-s66432
-
-N/usr/lib/system/libremovefile.dylib
-c00000000532A94F3000000000000C4C0
-t1395299571
-s50368
-
-N/usr/lib/system/libsystem_asl.dylib
-c00000000532A94F100000000000357A0
-t1395299569
-s219040
-
-N/usr/lib/system/libsystem_blocks.dylib
-c00000000532A94F1000000000000C070
-t1395299569
-s49264
-
-N/usr/lib/system/libsystem_c.dylib
-c00000000532A94E30000000000168D00
-t1395299555
-s1477888
-
-N/usr/lib/system/libsystem_configuration.dylib
-c00000000532A94F00000000000010630
-t1395299568
-s67120
-
-N/usr/lib/system/libsystem_dnssd.dylib
-c00000000532A94F2000000000001DF10
-t1395299570
-s122640
-
-N/usr/lib/system/libsystem_info.dylib
-c00000000532A94E30000000000075B00
-t1395299555
-s482048
-
-N/usr/lib/system/libsystem_kernel.dylib
-c00000000532A94E3000000000007CCE0
-t1395299555
-s511200
-
-N/usr/lib/system/libsystem_m.dylib
-c00000000532A94E300000000000766C0
-t1395299555
-s485056
-
-N/usr/lib/system/libsystem_malloc.dylib
-c00000000532A94F10000000000044DC0
-t1395299569
-s282048
-
-N/usr/lib/system/libsystem_notify.dylib
-c00000000532A94E30000000000021FA0
-t1395299555
-s139168
-
-N/usr/lib/system/libsystem_platform.dylib
-c00000000532A94F2000000000002D920
-t1395299570
-s186656
-
-N/usr/lib/system/libsystem_pthread.dylib
-c00000000532A94F2000000000001E570
-t1395299570
-s124272
-
-N/usr/lib/system/libsystem_sandbox.dylib
-c00000000532A94E9000000000000CC70
-t1395299561
-s52336
-
-N/usr/lib/system/libunc.dylib
-c00000000532A94EC000000000000C3F0
-t1395299564
-s50160
-
-N/usr/lib/system/libunwind.dylib
-c00000000532A94F200000000000199F0
-t1395299570
-s104944
-
-N/var/folders/98/df4p528s3n3g0r3c09kc4_fr0000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/hiWorld-Prefix-bnumxjsqzrugcwfnnjgwqjckgyoc/hiWorld-Prefix.pch.pch
-t1398036407
-s5376212
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese6950b3be10db941^30d8153be10db941^---0#1#1#--18"Check dependencies36"810966BF-3604-42F0-8997-554BED208D83-
-
-CCompileC build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/AppDelegate.o /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s419729207.479924
-e419729207.562011
-r1
-xCompileC
-xbuild/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/AppDelegate.o
-x/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/AppDelegate.m
-d/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/AppDelegate.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
-d/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/MainViewController.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/AppDelegate.m212"[1mCompileC[0m build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/AppDelegate.o [1mhiWorld/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileraef47a378f04b941^54e18f378f04b941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/AppDelegate.m0000000000000000^3857"[1mCompileC[0m build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/AppDelegate.o [1mhiWorld/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/benchansky/Apps/hi/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=86 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/hiWorld-generated-files.hmap -I/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/hiWorld-own-target-headers.hmap -I/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/hiWorld-all-target-headers.hmap -iquote /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/hiWorld-project-headers.hmap -I/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include -I/Users/benchansky/Apps/hi/platforms/ios/build/emulator/usr/local/lib/include -I/Users/benchansky/Apps/hi/platforms/ios/build/UninstalledProducts/include -I/Users/benchansky/Apps/hi/platforms/ios/build/emulator -I/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/DerivedSources/i386 -I/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/DerivedSources -F/Users/benchansky/Apps/hi/platforms/ios/build/emulator -include /var/folders/98/df4p528s3n3g0r3c09kc4_fr0000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/hiWorld-Prefix-bnumxjsqzrugcwfnnjgwqjckgyoc/hiWorld-Prefix.pch -MMD -MT dependencies -MF /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/AppDelegate.dia -c /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/AppDelegate.m -o /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/AppDelegate.o36"55B4DCCF-756C-4235-A79E-E1826BF298C4-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCompileC build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/MainViewController.o /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s419729207.480277
-e419729207.550369
-r1
-xCompileC
-xbuild/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/MainViewController.o
-x/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/MainViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/MainViewController.m
-d/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/MainViewController.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/MainViewController.m226"[1mCompileC[0m build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/MainViewController.o [1mhiWorld/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4e0a7b378f04b941^36e78c378f04b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/MainViewController.m0000000000000000^3899"[1mCompileC[0m build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/MainViewController.o [1mhiWorld/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/benchansky/Apps/hi/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=86 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/hiWorld-generated-files.hmap -I/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/hiWorld-own-target-headers.hmap -I/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/hiWorld-all-target-headers.hmap -iquote /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/hiWorld-project-headers.hmap -I/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include -I/Users/benchansky/Apps/hi/platforms/ios/build/emulator/usr/local/lib/include -I/Users/benchansky/Apps/hi/platforms/ios/build/UninstalledProducts/include -I/Users/benchansky/Apps/hi/platforms/ios/build/emulator -I/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/DerivedSources/i386 -I/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/DerivedSources -F/Users/benchansky/Apps/hi/platforms/ios/build/emulator -include /var/folders/98/df4p528s3n3g0r3c09kc4_fr0000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/hiWorld-Prefix-bnumxjsqzrugcwfnnjgwqjckgyoc/hiWorld-Prefix.pch -MMD -MT dependencies -MF /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/MainViewController.dia -c /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/MainViewController.m -o /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/MainViewController.o36"0A33706A-9885-45C7-9C62-43015DE7AFF3-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCompileC build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/main.o /Users/benchansky/Apps/hi/platforms/ios/hiWorld/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s419729207.479703
-e419729207.524953
-r1
-xCompileC
-xbuild/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/main.o
-x/Users/benchansky/Apps/hi/platforms/ios/hiWorld/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/benchansky/Apps/hi/platforms/ios/hiWorld/main.m
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/benchansky/Apps/hi/platforms/ios/hiWorld/main.m190"[1mCompileC[0m build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/main.o [1mhiWorld/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdde97a378f04b941^a66386378f04b941^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/benchansky/Apps/hi/platforms/ios/hiWorld/main.m0000000000000000^3799"[1mCompileC[0m build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/main.o [1mhiWorld/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/benchansky/Apps/hi/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=86 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/hiWorld-generated-files.hmap -I/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/hiWorld-own-target-headers.hmap -I/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/hiWorld-all-target-headers.hmap -iquote /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/hiWorld-project-headers.hmap -I/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include -I/Users/benchansky/Apps/hi/platforms/ios/build/emulator/usr/local/lib/include -I/Users/benchansky/Apps/hi/platforms/ios/build/UninstalledProducts/include -I/Users/benchansky/Apps/hi/platforms/ios/build/emulator -I/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/DerivedSources/i386 -I/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/DerivedSources -F/Users/benchansky/Apps/hi/platforms/ios/build/emulator -include /var/folders/98/df4p528s3n3g0r3c09kc4_fr0000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/hiWorld-Prefix-bnumxjsqzrugcwfnnjgwqjckgyoc/hiWorld-Prefix.pch -MMD -MT dependencies -MF /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/main.dia -c /Users/benchansky/Apps/hi/platforms/ios/hiWorld/main.m -o /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/main.o36"8F024B9D-36FF-4658-B239-780954980FC9-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCompileXIB /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/MainViewController.xib
-s419729192.794684
-e419729207.135937
-r1
-xCompileXIB
-x/Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/MainViewController.xib
-o2014-04-20 18:26:46.434 Interface Builder Cocoa Touch Tool[76027:303] CFPreferences: user home directory at file:///Users/benchansky/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compiling /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/MainViewController.xib65"[1mCompileXIB[0m [1mhiWorld/Classes/MainViewController.xib[0m7688cb288f04b941^6ccd22378f04b941^-235"2014-04-20 18:26:46.434 Interface Builder Cocoa Touch Tool[76027:303] CFPreferences: user home directory at file:///Users/benchansky/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@85"file:///Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/MainViewController.xib0000000000000000^1118"[1mCompileXIB[0m [1mhiWorld/Classes/MainViewController.xib[0m    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/MainViewController.nib /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Classes/MainViewController.xib36"F23E287C-C41B-4381-B348-EF1A51E2C40D-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCopyStringsFile /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/de.lproj/Localizable.strings hiWorld/Resources/de.lproj/Localizable.strings
-s419729192.882304
-e419729192.981746
-r1
-xCopyStringsFile
-x/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/de.lproj/Localizable.strings
-xhiWorld/Resources/de.lproj/Localizable.strings
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy hiWorld/Resources/de.lproj/Localizable.strings126"[1mCopyStringsFile[0m build/emulator/hiWorld.app/de.lproj/Localizable.strings hiWorld/Resources/de.lproj/Localizable.strings91f0e1288f04b941^2156fb288f04b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/de.lproj/Localizable.strings0000000000000000^921"[1mCopyStringsFile[0m build/emulator/hiWorld.app/de.lproj/Localizable.strings hiWorld/Resources/de.lproj/Localizable.strings    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/de.lproj -- hiWorld/Resources/de.lproj/Localizable.strings36"FAAA891B-01A1-43FE-8B1A-7C5DDE02F860-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCopyStringsFile /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/en.lproj/Localizable.strings hiWorld/Resources/en.lproj/Localizable.strings
-s419729192.794433
-e419729192.928498
-r1
-xCopyStringsFile
-x/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/en.lproj/Localizable.strings
-xhiWorld/Resources/en.lproj/Localizable.strings
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy hiWorld/Resources/en.lproj/Localizable.strings126"[1mCopyStringsFile[0m build/emulator/hiWorld.app/en.lproj/Localizable.strings hiWorld/Resources/en.lproj/Localizable.stringscd74cb288f04b941^4fb2ed288f04b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/en.lproj/Localizable.strings0000000000000000^921"[1mCopyStringsFile[0m build/emulator/hiWorld.app/en.lproj/Localizable.strings hiWorld/Resources/en.lproj/Localizable.strings    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/en.lproj -- hiWorld/Resources/en.lproj/Localizable.strings36"02397448-C164-438F-B3EC-6A642CD2CDBF-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/icons/icon-40.png build/emulator/hiWorld.app/icon-40.png
-s419729192.928758
-e419729192.992953
-r1
-xCpResource
-xhiWorld/Resources/icons/icon-40.png
-xbuild/emulator/hiWorld.app/icon-40.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/hiWorld.app/icon-40.png93"[1mCpResource[0m hiWorld/Resources/icons/icon-40.png build/emulator/hiWorld.app/icon-40.pngbfd6ed288f04b941^ca34fe288f04b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-40.png00347041dcffdf42^927"[1mCpResource[0m hiWorld/Resources/icons/icon-40.png build/emulator/hiWorld.app/icon-40.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-40.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"758138B6-9546-41E4-88ED-90943CED81E9-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/icons/icon-40@2x.png build/emulator/hiWorld.app/icon-40@2x.png
-s419729192.793596
-e419729192.881898
-r1
-xCpResource
-xhiWorld/Resources/icons/icon-40@2x.png
-xbuild/emulator/hiWorld.app/icon-40@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/hiWorld.app/icon-40@2x.png99"[1mCpResource[0m hiWorld/Resources/icons/icon-40@2x.png build/emulator/hiWorld.app/icon-40@2x.png643bcb288f04b941^dbc4e1288f04b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-40@2x.png00347041dcffdf42^936"[1mCpResource[0m hiWorld/Resources/icons/icon-40@2x.png build/emulator/hiWorld.app/icon-40@2x.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-40@2x.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"7F18C569-FB62-43D4-BF3C-2A4A9480F3C3-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/icons/icon-50.png build/emulator/hiWorld.app/icon-50.png
-s419729192.794856
-e419729192.881902
-r1
-xCpResource
-xhiWorld/Resources/icons/icon-50.png
-xbuild/emulator/hiWorld.app/icon-50.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/hiWorld.app/icon-50.png93"[1mCpResource[0m hiWorld/Resources/icons/icon-50.png build/emulator/hiWorld.app/icon-50.png5490cb288f04b941^08cae1288f04b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-50.png00347041dcffdf42^927"[1mCpResource[0m hiWorld/Resources/icons/icon-50.png build/emulator/hiWorld.app/icon-50.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-50.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"18668B8A-EE13-436D-BF2E-818A783D06E8-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/icons/icon-50@2x.png build/emulator/hiWorld.app/icon-50@2x.png
-s419729192.993102
-e419729193.095745
-r1
-xCpResource
-xhiWorld/Resources/icons/icon-50@2x.png
-xbuild/emulator/hiWorld.app/icon-50@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/hiWorld.app/icon-50@2x.png99"[1mCpResource[0m hiWorld/Resources/icons/icon-50@2x.png build/emulator/hiWorld.app/icon-50@2x.png384efe288f04b941^498618298f04b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-50@2x.png00347041dcffdf42^936"[1mCpResource[0m hiWorld/Resources/icons/icon-50@2x.png build/emulator/hiWorld.app/icon-50@2x.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-50@2x.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"EBA95510-90E8-487E-BDF9-F335625586D9-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/icons/icon-60.png build/emulator/hiWorld.app/icon-60.png
-s419729192.981911
-e419729192.997597
-r1
-xCpResource
-xhiWorld/Resources/icons/icon-60.png
-xbuild/emulator/hiWorld.app/icon-60.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/hiWorld.app/icon-60.png93"[1mCpResource[0m hiWorld/Resources/icons/icon-60.png build/emulator/hiWorld.app/icon-60.pngfc6dfb288f04b941^d862ff288f04b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-60.png00347041dcffdf42^927"[1mCpResource[0m hiWorld/Resources/icons/icon-60.png build/emulator/hiWorld.app/icon-60.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-60.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"B8B849E6-74DA-4DB6-BFB4-74A088FD1E25-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/icons/icon-60@2x.png build/emulator/hiWorld.app/icon-60@2x.png
-s419729192.882096
-e419729192.907162
-r1
-xCpResource
-xhiWorld/Resources/icons/icon-60@2x.png
-xbuild/emulator/hiWorld.app/icon-60@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/hiWorld.app/icon-60@2x.png99"[1mCpResource[0m hiWorld/Resources/icons/icon-60@2x.png build/emulator/hiWorld.app/icon-60@2x.png1cece1288f04b941^813fe8288f04b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-60@2x.png00347041dcffdf42^936"[1mCpResource[0m hiWorld/Resources/icons/icon-60@2x.png build/emulator/hiWorld.app/icon-60@2x.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-60@2x.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"D52D9F71-419D-4DA1-BE57-994E46932808-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/icons/icon-72.png build/emulator/hiWorld.app/icon-72.png
-s419729192.793789
-e419729192.882103
-r1
-xCpResource
-xhiWorld/Resources/icons/icon-72.png
-xbuild/emulator/hiWorld.app/icon-72.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/hiWorld.app/icon-72.png93"[1mCpResource[0m hiWorld/Resources/icons/icon-72.png build/emulator/hiWorld.app/icon-72.png8b51cb288f04b941^78d3e1288f04b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-72.png00347041dcffdf42^927"[1mCpResource[0m hiWorld/Resources/icons/icon-72.png build/emulator/hiWorld.app/icon-72.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-72.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"8A831E99-8A0D-4F22-8FCE-22BD8CC0ABB1-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/icons/icon-72@2x.png build/emulator/hiWorld.app/icon-72@2x.png
-s419729193.001130
-e419729193.095797
-r1
-xCpResource
-xhiWorld/Resources/icons/icon-72@2x.png
-xbuild/emulator/hiWorld.app/icon-72@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/hiWorld.app/icon-72@2x.png99"[1mCpResource[0m hiWorld/Resources/icons/icon-72@2x.png build/emulator/hiWorld.app/icon-72@2x.png876c00298f04b941^cc9618298f04b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-72@2x.png00347041dcffdf42^936"[1mCpResource[0m hiWorld/Resources/icons/icon-72@2x.png build/emulator/hiWorld.app/icon-72@2x.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-72@2x.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"13026715-6F60-433E-B82A-80E25B7B371F-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/icons/icon-76.png build/emulator/hiWorld.app/icon-76.png
-s419729192.793499
-e419729192.889055
-r1
-xCpResource
-xhiWorld/Resources/icons/icon-76.png
-xbuild/emulator/hiWorld.app/icon-76.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/hiWorld.app/icon-76.png93"[1mCpResource[0m hiWorld/Resources/icons/icon-76.png build/emulator/hiWorld.app/icon-76.pngc235cb288f04b941^4a9ae3288f04b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-76.png00347041dcffdf42^927"[1mCpResource[0m hiWorld/Resources/icons/icon-76.png build/emulator/hiWorld.app/icon-76.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-76.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"929CD655-310F-4B73-8675-E4F2009E4A67-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/icons/icon-76@2x.png build/emulator/hiWorld.app/icon-76@2x.png
-s419729192.997952
-e419729193.095793
-r1
-xCpResource
-xhiWorld/Resources/icons/icon-76@2x.png
-xbuild/emulator/hiWorld.app/icon-76@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/hiWorld.app/icon-76@2x.png99"[1mCpResource[0m hiWorld/Resources/icons/icon-76@2x.png build/emulator/hiWorld.app/icon-76@2x.png7e8eff288f04b941^759318298f04b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-76@2x.png00347041dcffdf42^936"[1mCpResource[0m hiWorld/Resources/icons/icon-76@2x.png build/emulator/hiWorld.app/icon-76@2x.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-76@2x.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"84CAEAD0-C8BA-47FA-85CA-5443FCBF007C-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/icons/icon-small.png build/emulator/hiWorld.app/icon-small.png
-s419729192.882519
-e419729192.907121
-r1
-xCpResource
-xhiWorld/Resources/icons/icon-small.png
-xbuild/emulator/hiWorld.app/icon-small.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/hiWorld.app/icon-small.png99"[1mCpResource[0m hiWorld/Resources/icons/icon-small.png build/emulator/hiWorld.app/icon-small.pngbd01e2288f04b941^8a39e8288f04b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-small.png00347041dcffdf42^936"[1mCpResource[0m hiWorld/Resources/icons/icon-small.png build/emulator/hiWorld.app/icon-small.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-small.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"DF174C64-8F77-41C0-864D-665E464FD28A-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/icons/icon-small@2x.png build/emulator/hiWorld.app/icon-small@2x.png
-s419729192.907288
-e419729192.934772
-r1
-xCpResource
-xhiWorld/Resources/icons/icon-small@2x.png
-xbuild/emulator/hiWorld.app/icon-small@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/hiWorld.app/icon-small@2x.png105"[1mCpResource[0m hiWorld/Resources/icons/icon-small@2x.png build/emulator/hiWorld.app/icon-small@2x.pnga356e8288f04b941^234eef288f04b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon-small@2x.png00347041dcffdf42^945"[1mCpResource[0m hiWorld/Resources/icons/icon-small@2x.png build/emulator/hiWorld.app/icon-small@2x.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon-small@2x.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"DE2A1528-C898-4B40-9874-FF40FB408E57-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/icons/icon.png build/emulator/hiWorld.app/icon.png
-s419729192.793982
-e419729192.889080
-r1
-xCpResource
-xhiWorld/Resources/icons/icon.png
-xbuild/emulator/hiWorld.app/icon.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy build/emulator/hiWorld.app/icon.png87"[1mCpResource[0m hiWorld/Resources/icons/icon.png build/emulator/hiWorld.app/icon.png8257cb288f04b941^84b7e3288f04b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon.png00347041dcffdf42^918"[1mCpResource[0m hiWorld/Resources/icons/icon.png build/emulator/hiWorld.app/icon.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"C84E97F3-F812-41B2-93FC-490768C2093A-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/icons/icon@2x.png build/emulator/hiWorld.app/icon@2x.png
-s419729192.794261
-e419729192.889174
-r1
-xCpResource
-xhiWorld/Resources/icons/icon@2x.png
-xbuild/emulator/hiWorld.app/icon@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/hiWorld.app/icon@2x.png93"[1mCpResource[0m hiWorld/Resources/icons/icon@2x.png build/emulator/hiWorld.app/icon@2x.png936ecb288f04b941^d2c8e3288f04b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/icon@2x.png00347041dcffdf42^927"[1mCpResource[0m hiWorld/Resources/icons/icon@2x.png build/emulator/hiWorld.app/icon@2x.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/icons/icon@2x.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"2393C8AA-75DD-4CB1-841F-8112596D2030-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/hiWorld.app/Default-568h@2x~iphone.png
-s419729192.983121
-e419729193.095766
-r1
-xCpResource
-xhiWorld/Resources/splash/Default-568h@2x~iphone.png
-xbuild/emulator/hiWorld.app/Default-568h@2x~iphone.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/emulator/hiWorld.app/Default-568h@2x~iphone.png124"[1mCpResource[0m hiWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/hiWorld.app/Default-568h@2x~iphone.pngd0b9fb288f04b941^008f18298f04b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Default-568h@2x~iphone.png00347041dcffdf42^974"[1mCpResource[0m hiWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/hiWorld.app/Default-568h@2x~iphone.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/splash/Default-568h@2x~iphone.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"4D99AC5D-506E-445C-A775-4EE5BE0ED822-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/hiWorld.app/Default-Landscape@2x~ipad.png
-s419729192.889250
-e419729193.005628
-r1
-xCpResource
-xhiWorld/Resources/splash/Default-Landscape@2x~ipad.png
-xbuild/emulator/hiWorld.app/Default-Landscape@2x~ipad.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/emulator/hiWorld.app/Default-Landscape@2x~ipad.png130"[1mCpResource[0m hiWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/hiWorld.app/Default-Landscape@2x~ipad.png9cc1e3288f04b941^3b7101298f04b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Default-Landscape@2x~ipad.png00347041dcffdf42^983"[1mCpResource[0m hiWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/hiWorld.app/Default-Landscape@2x~ipad.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/splash/Default-Landscape@2x~ipad.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"495095ED-4DFF-497E-A5C9-22F85D997E2D-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/hiWorld.app/Default-Landscape~ipad.png
-s419729192.889522
-e419729192.983009
-r1
-xCpResource
-xhiWorld/Resources/splash/Default-Landscape~ipad.png
-xbuild/emulator/hiWorld.app/Default-Landscape~ipad.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/emulator/hiWorld.app/Default-Landscape~ipad.png124"[1mCpResource[0m hiWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/hiWorld.app/Default-Landscape~ipad.png18cce3288f04b941^76a7fb288f04b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Default-Landscape~ipad.png00347041dcffdf42^974"[1mCpResource[0m hiWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/hiWorld.app/Default-Landscape~ipad.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/splash/Default-Landscape~ipad.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"224CE127-4652-4639-B63A-7DD3133FA230-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/hiWorld.app/Default-Portrait@2x~ipad.png
-s419729192.889857
-e419729193.002034
-r1
-xCpResource
-xhiWorld/Resources/splash/Default-Portrait@2x~ipad.png
-xbuild/emulator/hiWorld.app/Default-Portrait@2x~ipad.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/emulator/hiWorld.app/Default-Portrait@2x~ipad.png128"[1mCpResource[0m hiWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/hiWorld.app/Default-Portrait@2x~ipad.pngfce1e3288f04b941^e48500298f04b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Default-Portrait@2x~ipad.png00347041dcffdf42^980"[1mCpResource[0m hiWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/hiWorld.app/Default-Portrait@2x~ipad.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/splash/Default-Portrait@2x~ipad.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"3172FC4C-B055-4E9B-A5CA-4D2BAAF63C96-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/hiWorld.app/Default-Portrait~ipad.png
-s419729192.907520
-e419729193.000982
-r1
-xCpResource
-xhiWorld/Resources/splash/Default-Portrait~ipad.png
-xbuild/emulator/hiWorld.app/Default-Portrait~ipad.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/emulator/hiWorld.app/Default-Portrait~ipad.png122"[1mCpResource[0m hiWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/hiWorld.app/Default-Portrait~ipad.pngd462e8288f04b941^d14000298f04b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Default-Portrait~ipad.png00347041dcffdf42^971"[1mCpResource[0m hiWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/hiWorld.app/Default-Portrait~ipad.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/splash/Default-Portrait~ipad.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"AA7C728C-70FF-42E2-AA16-8925336C4737-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/splash/Default@2x~iphone.png build/emulator/hiWorld.app/Default@2x~iphone.png
-s419729192.934942
-e419729192.982133
-r1
-xCpResource
-xhiWorld/Resources/splash/Default@2x~iphone.png
-xbuild/emulator/hiWorld.app/Default@2x~iphone.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/emulator/hiWorld.app/Default@2x~iphone.png114"[1mCpResource[0m hiWorld/Resources/splash/Default@2x~iphone.png build/emulator/hiWorld.app/Default@2x~iphone.png406aef288f04b941^656dfb288f04b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Default@2x~iphone.png00347041dcffdf42^959"[1mCpResource[0m hiWorld/Resources/splash/Default@2x~iphone.png build/emulator/hiWorld.app/Default@2x~iphone.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/splash/Default@2x~iphone.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"DF15AE8D-D0A3-441C-BFD6-7C2ECECCBF3C-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CCpResource hiWorld/Resources/splash/Default~iphone.png build/emulator/hiWorld.app/Default~iphone.png
-s419729192.982241
-e419729193.001138
-r1
-xCpResource
-xhiWorld/Resources/splash/Default~iphone.png
-xbuild/emulator/hiWorld.app/Default~iphone.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/emulator/hiWorld.app/Default~iphone.png108"[1mCpResource[0m hiWorld/Resources/splash/Default~iphone.png build/emulator/hiWorld.app/Default~iphone.pngb282fb288f04b941^3c4b00298f04b941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Default~iphone.png00347041dcffdf42^950"[1mCpResource[0m hiWorld/Resources/splash/Default~iphone.png build/emulator/hiWorld.app/Default~iphone.png    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/benchansky/Apps/hi/platforms/ios/hiWorld/Resources/splash/Default~iphone.png /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"0A65AA69-E5DB-4A74-BD18-47485282ED3E-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CGenerateDSYMFile /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app.dSYM /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/hiWorld
-s420340027.427151
-e420340027.504752
-r1
-xGenerateDSYMFile
-x/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app.dSYM
-x/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/hiWorld
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Generate /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app.dSYM99"[1mGenerateDSYMFile[0m [1mbuild/emulator/hiWorld.app.dSYM[0m build/emulator/hiWorld.app/hiWorld1a6d6d3be10db941^8f37813be10db941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app.dSYM/0000000000000000^789"[1mGenerateDSYMFile[0m [1mbuild/emulator/hiWorld.app.dSYM[0m build/emulator/hiWorld.app/hiWorld    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/hiWorld -o /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app.dSYM36"CC5A4863-3E64-425C-8EAD-0FD18B13B4E8-
-b7D953F90-7ACD-494B-988B-487CE2E068A6
-
-CLd /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/hiWorld normal i386
-s419729207.573165
-e419729208.179888
-r1
-xLd
-x/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/hiWorld
-xnormal
-xi386
-d/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/hiWorld.LinkFileList
-d/Users/benchansky/Apps/hi/platforms/ios/build/emulator/libCordova.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
-d/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/main.o
-d/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/AppDelegate.o
-d/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/MainViewController.o
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
-d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
-d/usr/lib/libSystem.B.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
-d/usr/lib/system/libcache.dylib
-d/usr/lib/system/libcommonCrypto.dylib
-d/usr/lib/system/libcompiler_rt.dylib
-d/usr/lib/system/libcopyfile.dylib
-d/usr/lib/system/libcorecrypto.dylib
-d/usr/lib/system/libkeymgr.dylib
-d/usr/lib/system/liblaunch.dylib
-d/usr/lib/system/libmacho.dylib
-d/usr/lib/system/libquarantine.dylib
-d/usr/lib/system/libremovefile.dylib
-d/usr/lib/system/libsystem_asl.dylib
-d/usr/lib/system/libsystem_blocks.dylib
-d/usr/lib/system/libsystem_c.dylib
-d/usr/lib/system/libsystem_configuration.dylib
-d/usr/lib/system/libsystem_dnssd.dylib
-d/usr/lib/system/libsystem_info.dylib
-d/usr/lib/system/libsystem_kernel.dylib
-d/usr/lib/system/libsystem_m.dylib
-d/usr/lib/system/libsystem_malloc.dylib
-d/usr/lib/system/libsystem_notify.dylib
-d/usr/lib/system/libsystem_platform.dylib
-d/usr/lib/system/libsystem_pthread.dylib
-d/usr/lib/system/libsystem_sandbox.dylib
-d/usr/lib/system/libunc.dylib
-d/usr/lib/system/libunwind.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Link /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/hiWorld57"[1mLd[0m build/emulator/hiWorld.app/hiWorld normal i3869ed192378f04b941^520e2e388f04b941^---0#0#1#--1939"[1mLd[0m build/emulator/hiWorld.app/hiWorld normal i386    cd /Users/benchansky/Apps/hi/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/benchansky/Apps/hi/platforms/ios/build/emulator -F/Users/benchansky/Apps/hi/platforms/ios/build/emulator -filelist /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/hiWorld.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/benchansky/Apps/hi/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework AssetsLibrary /Users/benchansky/Apps/hi/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Objects-normal/i386/hiWorld_dependency_info.dat -o /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/hiWorld36"5BCEF1A0-1133-4A30-A3A3-4F9232EB9646-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CPhaseScriptExecution Copy\ www\ directory /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Script-304B58A110DAC018002A0835.sh
-s420340027.089610
-e420340027.384283
-r1
-xPhaseScriptExecution
-xCopy www directory
-x/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Script-304B58A110DAC018002A0835.sh
-o
-oreal	0m0.262s
-ouser	0m0.080s
-osys	0m0.118s
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'140"[1mPhaseScriptExecution[0m Copy\ www\ directory build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Script-304B58A110DAC018002A0835.sh564a173be10db941^5662623be10db941^-42"real	0m0.262suser	0m0.080ssys	0m0.118s3(21%IDEActivityLogMessage2@14"real	0m0.262s-420340027#1#14#-0#-----2@14"user	0m0.080s-420340027#15#14#-0#-----2@13"sys	0m0.118s-420340027#29#13#-0#-----0#0#1#--334"[1mPhaseScriptExecution[0m Copy\ www\ directory build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Script-304B58A110DAC018002A0835.sh    cd /Users/benchansky/Apps/hi/platforms/ios    /bin/sh -c /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/Script-304B58A110DAC018002A0835.sh36"D3B39028-AEFB-4A07-B385-48BFE228D4D9-
-b7D953F90-7ACD-494B-988B-487CE2E068A6
-
-CProcessInfoPlistFile /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Info.plist /Users/benchansky/Apps/hi/platforms/ios/hiWorld/hiWorld-Info.plist
-s420340027.086154
-e420340027.088651
-r1
-xProcessInfoPlistFile
-x/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Info.plist
-x/Users/benchansky/Apps/hi/platforms/ios/hiWorld/hiWorld-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Process /Users/benchansky/Apps/hi/platforms/ios/hiWorld/hiWorld-Info.plist101"[1mProcessInfoPlistFile[0m build/emulator/hiWorld.app/Info.plist [1mhiWorld/hiWorld-Info.plist[0m4e26163be10db941^eeb3163be10db941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/benchansky/Apps/hi/platforms/ios/hiWorld/hiWorld-Info.plist0000000000000000^867"[1mProcessInfoPlistFile[0m build/emulator/hiWorld.app/Info.plist [1mhiWorld/hiWorld-Info.plist[0m    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools"    builtin-infoPlistUtility /Users/benchansky/Apps/hi/platforms/ios/hiWorld/hiWorld-Info.plist -genpkginfo /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app/Info.plist36"2D805B63-EAF9-4C11-9BE6-6A7765B66CEC-
-b7D953F90-7ACD-494B-988B-487CE2E068A6
-
-CProcessPCH /var/folders/98/df4p528s3n3g0r3c09kc4_fr0000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/hiWorld-Prefix-bnumxjsqzrugcwfnnjgwqjckgyoc/hiWorld-Prefix.pch.pch hiWorld/hiWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s419729207.136609
-e419729207.478779
-r1
-xProcessPCH
-x/var/folders/98/df4p528s3n3g0r3c09kc4_fr0000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/hiWorld-Prefix-bnumxjsqzrugcwfnnjgwqjckgyoc/hiWorld-Prefix.pch.pch
-xhiWorld/hiWorld-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/benchansky/Apps/hi/platforms/ios/hiWorld/hiWorld-Prefix.pch
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile hiWorld/hiWorld-Prefix.pch298"[1mProcessPCH[0m /var/folders/98/df4p528s3n3g0r3c09kc4_fr0000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/hiWorld-Prefix-bnumxjsqzrugcwfnnjgwqjckgyoc/hiWorld-Prefix.pch.pch hiWorld/hiWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler950d23378f04b941^25947a378f04b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/benchansky/Apps/hi/platforms/ios/hiWorld/hiWorld-Prefix.pch0000000000000000^3918"[1mProcessPCH[0m /var/folders/98/df4p528s3n3g0r3c09kc4_fr0000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/hiWorld-Prefix-bnumxjsqzrugcwfnnjgwqjckgyoc/hiWorld-Prefix.pch.pch hiWorld/hiWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/benchansky/Apps/hi/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools:/Users/benchansky/android-sdk-linux/tools:/Users/benchansky/android-sdk-linux/platform-tools:/Users/benchansky/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=86 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/hiWorld-generated-files.hmap -I/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/hiWorld-own-target-headers.hmap -I/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/hiWorld-all-target-headers.hmap -iquote /Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/hiWorld-project-headers.hmap -I/Users/benchansky/Apps/hi/platforms/ios/build/emulator/include -I/Users/benchansky/Apps/hi/platforms/ios/build/emulator/usr/local/lib/include -I/Users/benchansky/Apps/hi/platforms/ios/build/UninstalledProducts/include -I/Users/benchansky/Apps/hi/platforms/ios/build/emulator -I/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/DerivedSources/i386 -I/Users/benchansky/Apps/hi/platforms/ios/build/hiWorld.build/Debug-iphonesimulator/hiWorld.build/DerivedSources -F/Users/benchansky/Apps/hi/platforms/ios/build/emulator --serialize-diagnostics /var/folders/98/df4p528s3n3g0r3c09kc4_fr0000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/hiWorld-Prefix-bnumxjsqzrugcwfnnjgwqjckgyoc/hiWorld-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/98/df4p528s3n3g0r3c09kc4_fr0000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/hiWorld-Prefix-bnumxjsqzrugcwfnnjgwqjckgyoc/hiWorld-Prefix.pch.d -c /Users/benchansky/Apps/hi/platforms/ios/hiWorld/hiWorld-Prefix.pch -o /var/folders/98/df4p528s3n3g0r3c09kc4_fr0000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/hiWorld-Prefix-bnumxjsqzrugcwfnnjgwqjckgyoc/hiWorld-Prefix.pch.pch36"55300625-6FD8-4182-BE25-3FEB10B63306-
-b28B7F165-DE63-4257-9C94-FAD8B87BB819
-
-CTouch /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app
-s420340027.505431
-e420340027.508395
-r1
-xTouch
-x/Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Touch /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app40"[1mTouch[0m build/emulator/hiWorld.app9370813be10db941^9126823be10db941^---0#0#1#--569"[1mTouch[0m build/emulator/hiWorld.app    cd /Users/benchansky/Apps/hi/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/benchansky/Downloads/android-sdk-macosx/tools"    /usr/bin/touch -c /Users/benchansky/Apps/hi/platforms/ios/build/emulator/hiWorld.app36"6C8C3540-01AE-4083-9544-9B46C3A095AC-
-b7D953F90-7ACD-494B-988B-487CE2E068A6
-
